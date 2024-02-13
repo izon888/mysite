@@ -1,0 +1,7 @@
+body {
+	background-color: #936c6c;
+}
+
+a:link {text-decoration:none;}
+a.five:visited {text-decoration:none;}
+a.five:hover {text-decoration:underline;}
